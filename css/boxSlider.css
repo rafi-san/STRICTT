@@ -1,0 +1,61 @@
+
+/* Down slider */
+.box-container-one{
+  position:absolute;
+  bottom: 100%;
+  opacity: 0.6;
+  overflow: hidden;
+  transition: 0.2s ease;
+  
+}
+
+.box-container-two{
+  position:absolute;
+  bottom: 100%;
+  opacity: 0.6;
+  overflow: hidden;
+  transition: 0.2s ease;
+  
+}
+
+.box-container-three{
+  position:absolute;
+  opacity: 0.6;
+  bottom: 100%;
+  overflow: hidden;
+  transition: 0.2s ease;
+  
+}
+
+.box-container-four{
+  position:absolute;
+  opacity: 0.6;
+  bottom: 100%;
+  overflow: hidden;
+  transition: 0.2s ease;
+  
+}
+
+.box-container-five{
+  position:absolute;
+  bottom: 100%;
+  opacity: 0.6;
+  overflow: hidden;
+  transition: 0.2s ease;
+  
+}
+
+.box-container-six{
+  position:absolute;
+  opacity: 0.6;
+  bottom: 100%;
+  overflow: hidden;
+  transition: 0.2s ease;
+  
+}
+
+
+
+
+
+
